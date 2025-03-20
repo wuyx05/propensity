@@ -28,7 +28,7 @@ python src/main.py \
 
 ## Repository Structure 
 ├── data/  # Raw datasets, DataScientist_CaseStudy_Dataset.xlsx   
-├── outputs/  # list of clients with product to target,  product_recommendations.csv   
+├── outputs/  # list of clients with product to target, saved in recommendations.csv   
 ├── models/ # Saved model binaries   
 ├── encoders/ # Saved encoders   
 ├── scaler/ # Saved scaler   
